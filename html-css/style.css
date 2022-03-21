@@ -1,0 +1,1150 @@
+
+.text-center {
+    text-align: center;
+    
+    left: 45% ;
+    position: absolute;
+      top: 5%;
+      float: left;
+    
+  }
+  .jd{
+      float: right;
+      margin-left: 100px;
+       position: absolute;
+      top: 5%;
+      left: 50%;
+  }
+  .f{
+      background-color: #fe610c;
+      border-radius: 40px;
+  }
+  .a{
+      float: right;
+      margin-left: 100px;
+      position: absolute;
+      top: 5%;
+      left: 60%;
+  }
+  .b{
+      float: right;
+      margin-left: 100px;
+      position: absolute;
+      top: 5%;
+      left: 69%;
+  }
+  .c{
+      float: right;
+      margin-left: 150px;
+      position: absolute;
+      top: 5%;
+      left: 75%;
+      border-radius: 40px;
+  }
+  .pic{
+      position: absolute;
+      top: 5%;
+  }
+  .search-wrapper {
+      position: relative;
+      background-image: url(https://akam.cdn.jdmagicbox.com/images/icontent/jdrwd_new/jdmart-banner.jpg);
+      
+      padding: 0px,0px,0px,40px;
+      
+  }
+  .header_sprite5{
+      background: url(//akam.cdn.jdmagicbox.com/images/icontent/jdrwd_new/header_sprite1X.png) no-repeat;
+      }
+      
+  .search-input{
+      float: right;
+      width: 240px;
+      position: absolute;
+      left: 67%;
+     top: 6.5%;
+  }
+  .search-text1{
+      float: right;
+     bottom:10%;
+     width: 94px;
+     left: 50%;
+     position: absolute;
+     
+  }
+  .search-text{
+      position: absolute;
+      width: -10px;
+      left: 57%;
+      bottom:85%;
+      
+  }
+  
+  .sricon {
+      background-position: -10px -31px;
+      width: 20px;
+      height: 25px;
+  }
+  
+  .search-button{
+      float: right;
+      display: inline-block;
+      vertical-align: middle;
+      background-color: orangered;
+      /* border: none; */
+      width: 4%;
+      line-height: 20px;
+      height: 20px;
+      /* border-radius: 40px; */
+      position: absolute;
+      left: 91%;
+      bottom: 85.5%;
+      }
+  .abc{
+          border-radius: 40px;
+          border:0;
+           padding:0rem 0rem;
+           
+      }
+  .sricon {
+      background-position: -10px -31px;
+      width: 20px;
+      height: 25px;
+  }
+  .hotkeys-icon {
+      float: left;
+      width: 36px;
+      height: 35px;
+  }
+  
+  .hotkeys_sprite {
+      background: url(//akam.cdn.jdmagicbox.com/images/icontent/jdrwd_new/hotkeys_sprite1X.png) no-repeat;
+  }
+  .covid19-icon {
+      background-position: -50px -760px;
+      height: 40px;
+  }
+  .hotkeys-text {
+      float: left;
+      padding: 0 0 0 10px;
+      height: 40px;
+      line-height: 44px;
+      
+      font-family: Roboto, sans-serif;
+  }
+  button {
+      font-family: Roboto, sans-serif;
+  }
+  .b2b-icon {
+      background-position: -3px -138px;
+      height: 40px;
+  }
+  .hotkeys-b2b
+  {
+      float: left;
+      padding: 0 0 0 10px;
+      height: 40px;
+      line-height: 44px;
+      width: 113px;
+      font-family: Roboto, sans-serif;
+  }
+  .airtk-icon {
+      background-position: -50px -420px;
+      height: 40px;
+  }
+  .hotkeys-text1{
+      float: left;
+      padding: 0 0 0 10px;
+      height: 5px;
+      line-height: 44px;
+      width: 113px;
+      font-family: Roboto, sans-serif;
+  }
+  .anyoh-icon {
+      background-position: -3px 0;
+      height: 40px;
+  }
+  .hotkeys-text2{
+      float: left;
+      padding: 0 0 0 10px;
+      height: 5px;
+      line-height: 44px;
+      width: 113px;
+      font-family: Roboto, sans-serif;
+  }
+  .loana-icon{
+      background-position: -98px -349px;
+      height: 40px;
+  }
+  .hotkeys-text3{
+      float: left;
+      padding: 0 0 0 10px;
+      height: 5px;
+      line-height: 44px;
+      width: 113px;
+      font-family: Roboto, sans-serif;
+  }
+  .autoc-icon {
+      background-position: -5px -46px;
+      height: 40px;
+  }
+  .hotkeys-text4{
+      float: left;
+      padding: 0 0 0 10px;
+      height: 5px;
+      line-height: 44px;
+      width: 113px;
+      font-family: Roboto, sans-serif;
+      border: 1px ;
+  }
+  .header{
+      margin-top: 0px;
+  }
+  .autom-icon {
+      background-position: -5px -93px;
+      height: 40px; 
+  }
+  .hotkeys-text5{
+      float: left;
+      padding: 0 0 0 10px;
+      height: 2px;
+      line-height: 44px;
+      width: 113px;
+      font-family: Roboto, sans-serif;
+      border: 1px ;
+  }
+  
+  .babyc-icon {
+      background-position: -5px -187px;
+      height: 40px; 
+  }
+  .hotkeys-text6{
+      float: left;
+      padding: 0 0 0 10px;
+      height: 2px;
+      line-height: 44px;
+      width: 113px;
+      font-family: Roboto, sans-serif;
+      border: 1px ;
+  }
+  .banqu-icon {
+      background-position: -6px -232px;
+      height: 40px; 
+  }
+      
+  .hotkeys-text7{
+      float: left;
+      padding: 0 0 0 10px;
+      height: 2px;
+      line-height: 44px;
+      width: 113px;
+      font-family: Roboto, sans-serif;
+      border: 1px ;
+  }
+  .bills-icon {
+      background-position: -5px -280px;
+      height: 40px; 
+  }
+  
+  .hotkeys-text8{
+      float: left;
+      padding: 0 0 0 10px;
+      height: 2px;
+      line-height: 44px;
+      width: 113px;
+      font-family: Roboto, sans-serif;
+      border: 1px ;
+  }
+  .bookh-icon {
+      background-position: -184px -48px;
+      height: 40px;
+  }
+  .hotkeys-text9{
+      float: left;
+      padding: 0 0 0 10px;
+      height: 2px;
+      line-height: 44px;
+      width: 113px;
+      font-family: Roboto, sans-serif;
+      border: 1px ;
+  }
+  .pestc-icon {
+      background-position: -142px 0;
+      height: 40px;
+  }
+  .hotkeys-text0{
+      float: left;
+      padding: 0 0 0 10px;
+      height: 2px;
+      line-height: 44px;
+      width: 113px;
+      font-family: Roboto, sans-serif;
+      border: 1px ;
+  }
+  .bus-icon {
+      background-position: -3px -468px;
+      height: 40px;
+  }
+  .hotkeys-text10{
+      float: left;
+      padding: 0 0 0 10px;
+      height: 2px;
+      line-height: 44px;
+      width: 113px;
+      font-family: Roboto, sans-serif;
+      border: 1px ;
+  }
+  .cater-icon {
+      background-position: -3px -565px;
+      height: 40px;
+  }
+  .hotkeys-text11{
+      float: left;
+      padding: 0 0 0 10px;
+      height: 2px;
+      line-height: 44px;
+      width: 113px;
+      font-family: Roboto, sans-serif;
+      border: 1px ;
+  }
+  .chemi-icon {
+      background-position: -5px -610px;
+      height: 40px;
+  }
+  .hotkeys-text12{
+      float: left;
+      padding: 0 0 0 10px;
+      height: 2px;
+      line-height: 44px;
+      width: 113px;
+      font-family: Roboto, sans-serif;
+      border: 1px ;
+  }
+  .civil-icon {
+      background-position: -3px -658px;
+      height: 40px;
+  }
+  .hotkeys-text13{
+      float: left;
+      padding: 0 0 0 10px;
+      height: 2px;
+      line-height: 44px;
+      width: 113px;
+      font-family: Roboto, sans-serif;
+      border: 1px ;
+  }
+  .couri-icon {
+      background-position: -3px -702px;
+      height: 40px;
+  }
+  .hotkeys-text14{
+      float: left;
+      padding: 0 0 0 10px;
+      height: 2px;
+      line-height: 44px;
+      width: 113px;
+      font-family: Roboto, sans-serif;
+      border: 1px ;
+  }
+  .daily-icon {
+      background-position: -50px 0;
+      height: 40px;
+  }
+  .hotkeys-text15{
+      float: left;
+      padding: 0 0 0 10px;
+      height: 2px;
+      line-height: 44px;
+      width: 113px;
+      font-family: Roboto, sans-serif;
+      border: 1px ;
+  }
+  .dance-icon {
+      background-position: -50px -46px;
+      height: 40px;
+  }
+  .hotkeys-text16{
+      float: left;
+      padding: 0 0 0 10px;
+      height: 2px;
+      line-height: 44px;
+      width: 113px;
+      font-family: Roboto, sans-serif;
+      border: 1px ;
+  }
+  .docto-icon {
+      background-position: -50px -140px;
+      height: 40px;
+  }
+  .hotkeys-text17{
+      float: left;
+      padding: 0 0 0 10px;
+      height: 2px;
+      line-height: 44px;
+      width: 113px;
+      font-family: Roboto, sans-serif;
+      border: 1px ;
+  }
+  .educa-icon {
+      background-position: -50px -185px;
+      height: 40px;
+  }
+  .hotkeys-text18{
+      float: left;
+      padding: 0 0 0 10px;
+      height: 2px;
+      line-height: 44px;
+      width: 113px;
+      font-family: Roboto, sans-serif;
+      border: 1px ;
+  }
+  .emerg-icon {
+      background-position: -49px -234px;
+      height: 40px;
+  }
+  .hotkeys-text19{
+      float: left;
+      padding: 0 0 0 10px;
+      height: 2px;
+      line-height: 44px;
+      width: 113px;
+      font-family: Roboto, sans-serif;
+      border: 1px ;
+  }
+  .event-icon {
+      background-position: -48px -326px;
+      height: 40px;
+  }
+  .hotkeys-text20{
+      float: left;
+      padding: 0 0 0 10px;
+      height: 2px;
+      line-height: 44px;
+      width: 113px;
+      font-family: Roboto, sans-serif;
+      border: 1px ;
+  }
+  .fitne-icon {
+      background-position: -49px -372px;
+      height: 40px;
+  }
+  .hotkeys-text21{
+      float: left;
+      padding: 0 0 0 10px;
+      height: 2px;
+      line-height: 44px;
+      width: 113px;
+      font-family: Roboto, sans-serif;
+      border: 1px ;
+  }
+  .fligh-icon {
+      background-position: -50px -420px;
+      height: 40px;
+  }
+  .hotkeys-text22{
+      float: left;
+      padding: 0 0 0 10px;
+      height: 2px;
+      line-height: 44px;
+      width: 113px;
+      font-family: Roboto, sans-serif;
+      border: 1px ;
+  }
+  .foregin_icon {
+      background-position: -188px -603px;
+      height: 40px;
+  }
+  .hotkeys-text23{
+      float: left;
+      padding: 0 0 0 10px;
+      height: 2px;
+      line-height: 44px;
+      width: 113px;
+      font-family: Roboto, sans-serif;
+      border: 1px ;
+  }
+  
+  .flowe-icon {
+      background-position: -50px -466px;
+      height: 40px;
+  }
+  .hotkeys-text24{
+      float: left;
+      padding: 0 0 0 10px;
+      height: 2px;
+      line-height: 44px;
+      width: 113px;
+      font-family: Roboto, sans-serif;
+      border: 1px ;
+  }
+  .homed-icon {
+      background-position: -50px -512px;
+      height: 40px;
+  }
+  .hotkeys-text25{
+      float: left;
+      padding: 0 0 0 10px;
+      height: 2px;
+      line-height: 44px;
+      width: 113px;
+      font-family: Roboto, sans-serif;
+      border: 1px ;
+  }
+  .hospi-icon {
+      background-position: -50px -605px;
+      height: 40px;
+  }
+  .hotkeys-text26{
+      float: left;
+      padding: 0 0 0 10px;
+      height: 2px;
+      line-height: 44px;
+      width: 113px;
+      font-family: Roboto, sans-serif;
+      border: 1px ;
+  }
+  .house-icon {
+      background-position: -48px -700px;
+      height: 40px;
+  
+  }
+  .hotkeys-text27{
+      float: left;
+      padding: 0 0 0 10px;
+      height: 2px;
+      line-height: 44px;
+      width: 113px;
+      font-family: Roboto, sans-serif;
+      border: 1px ;
+  }
+  .insur-icon {
+      background-position: -96px -48px;
+      height: 40px;
+  }
+  .hotkeys-text28{
+      float: left;
+      padding: 0 0 0 10px;
+      height: 2px;
+      line-height: 44px;
+      width: 113px;
+      font-family: Roboto, sans-serif;
+      border: 1px ;
+  }
+  .innet-icon {
+      background-position: -98px -150px;
+      height: 40px;
+  }
+  .hotkeys-text29{
+      float: left;
+      padding: 0 0 0 10px;
+      height: 2px;
+      line-height: 44px;
+      width: 113px;
+      font-family: Roboto, sans-serif;
+      border: 1px ;
+  }
+  .jobs-icon {
+      background-position: -181px -100px;
+      height: 40px;
+  }
+  .hotkeys-text30{
+      float: left;
+      padding: 0 0 0 10px;
+      height: 2px;
+      line-height: 44px;
+      width: 113px;
+      font-family: Roboto, sans-serif;
+      border: 1px ;
+  }
+  .jewel-icon {
+      background-position: -96px -200px;
+      height: 40px;
+  }
+  .hotkeys-text31{
+      float: left;
+      padding: 0 0 0 10px;
+      height: 2px;
+      line-height: 44px;
+      width: 113px;
+      font-family: Roboto, sans-serif;
+      border: 1px ;
+  }
+  .labs-icon {
+      background-position: -97px -251px;
+      height: 40px;
+  }
+  .hotkeys-text32{
+      float: left;
+      padding: 0 0 0 10px;
+      height: 2px;
+      line-height: 44px;
+      width: 113px;
+      font-family: Roboto, sans-serif;
+      border: 1px ;
+  }
+  .party-icon {
+      background-position: -97px -650px;
+      height: 40px;
+  }
+  .hotkeys-text33{
+      float: left;
+      padding: 0 0 0 10px;
+      height: 2px;
+      line-height: 44px;
+      width: 113px;
+      font-family: Roboto, sans-serif;
+      border: 1px ;
+  }
+  .plays-icon {
+      background-position: -142px -100px;
+      height: 40px;
+  }
+  .hotkeys-text34{
+      float: left;
+      padding: 0 0 0 10px;
+      height: 2px;
+      line-height: 44px;
+      width: 113px;
+      font-family: Roboto, sans-serif;
+      border: 1px ;
+  }
+  .wrapper {
+      float: right;
+      width: 80%;
+      position: relative;
+      
+  }
+  .Resturants{
+      position: relative;
+      float: right;
+      width: 10%;
+  }
+  .figure-text{
+       /* float: left;  */
+      
+      padding: 5px 0px;
+  }
+  .ab{
+      float: right;
+      width: 140%;
+      position: relative;
+      line-height: 30px;
+    }
+  .bc{
+      float: right;
+      width: 140%;
+      position: relative;
+    line-height: 25px;
+    }
+    .cd{
+      float: right;
+      width: 140%;
+      position: relative;
+    line-height: 25px;
+    }
+    .ac{
+      float: right;
+      width: 140%;
+      position: relative;
+    line-height: 25px;
+    }
+    .image{
+      height: 135px;
+      width: 130px;
+      position: absolute;
+    left: 15%;
+    top: 0%;
+    }
+    .wrapper1 {
+      float: left;
+      width: 80%;
+      position: absolute;
+      right: -40%;
+      bottom: -1%;
+  
+    }
+    .image1{
+      height: 135px;
+      width: 130px;
+      position: absolute;
+    left: 14.2%;
+    top: 0%;
+    }
+    .wrapper2 {
+      float: right;
+      width: 90%;
+      position:absolute;
+       top:104%; 
+       right: -27.8%;
+      
+  }
+  .image2{
+      height: 135px;
+      width: 145px;
+      position: absolute;
+    left: -15.3%;
+    top: 0.4%;
+    }
+    .wrapper3 {
+      float: right;
+      width: 80%;
+      position:absolute;
+       top:104%; 
+       right: -51.8%;
+      
+  }
+  .image3{
+      height: 135px;
+      width: 125px;
+      position: absolute;
+    left: -14.8%;
+    top: 0.4%;
+    }
+    .heading_wrapper1{
+      float: right;
+      width: 80%;
+      position: relative;
+      /* left: 30%; */
+    }
+    .heading_wrapper2 {
+      float: right;
+      width: 80%;
+      position: relative;
+      right: -13%;
+    }
+  
+    .image4{
+      height: 135px;
+      width: 130px;
+      position: absolute;
+    left: -15%;
+    top: 0%;
+    }
+   .figure-text2{
+      /* float: left;  */
+     width: 15%;
+     padding: 5px 0px;
+  }
+  .wrapper5{
+      float: right;
+      width: 80%;
+      position:absolute;
+       top:143%; 
+       right: -51.8%;
+      
+  }
+  .image5{
+      height: 135px;
+      width: 125px;
+      position: absolute;
+    left: -14.8%;
+    top: 0.4%;
+    }
+    .wrapper6{
+      float: right;
+      width: 77%;
+      position: absolute;
+      right: -1.3%;
+      bottom:-101%;
+    }
+  
+    .image6{
+      height: 135px;
+      width: 130px;
+      position: absolute;
+    left: 15.0%;
+    top: 0%;
+    }
+    .wrapper7{
+      float: right;
+      width: 80%;
+      position:absolute;
+       top:174%; 
+       right: -51.8%;
+      
+  }
+  .image7{
+      height: 135px;
+      width: 125px;
+      position: absolute;
+    left: -14.8%;
+    top: 0.4%;
+    }
+    .figure-text3{
+      /* float: left;  */
+     width: 15%;
+     padding: 5px 0px;
+  }
+  .shopf_sprite {
+      background: url(//akam.cdn.jdmagicbox.com/images/icontent/jdrwd_new/shopf_sprite.jpg) no-repeat;
+  }
+  .mhon-image {
+      background-position: 10px 5px;
+  }
+  .headings{
+      font-weight: 300;
+      text-transform: capitalize;
+      font-size: 22px;
+      color: #424242;
+      right: 60%;
+      position: absolute;
+      bottom: -140.2%;
+  }
+  .figure-img {
+      /* display: block; */
+      width: 190px;
+      height: 140px;
+      float: right;
+      left: 260px;
+      position: absolute;
+      bottom: -132.4%;
+  }
+  .buttons{
+      font-weight: 400;
+      font-size: 14px;
+      color: #a1a1a1;
+      position: absolute;
+      right: 62%;
+      bottom: -145.2%;
+  }
+  .tele-image {
+      background-position: -180px 5px;
+  }
+  .headings1{
+      font-weight: 300;
+      text-transform: capitalize;
+      font-size: 22px;
+      color: #424242;
+      right: 38%;
+      position: absolute;
+      bottom: -140.2%;
+  }
+  .figure-img1{
+      /* display: block; */
+      width: 190px;
+      height: 140px;
+      float: right;
+      left: 500px;
+      position: absolute;
+      bottom: -132.4%;
+  }
+  .buttons1{
+      font-weight: 400;
+      font-size: 14px;
+      color: #a1a1a1;
+      position: absolute;
+      right: 41%;
+      bottom: -145.2%;
+  }
+  .came-image {
+      background-position: -360px 5px;
+  }
+  .headings2{
+      font-weight: 300;
+      text-transform: capitalize;
+      font-size: 22px;
+      color: #424242;
+      right: 15%;
+      position: absolute;
+      bottom: -140.2%;
+  }
+  .figure-img2{
+      /* display: block; */
+      width: 190px;
+      height: 140px;
+      float: right;
+      left: 720px;
+      position: absolute;
+      bottom: -132.4%;
+  }
+  .buttons2{
+      font-weight: 400;
+      font-size: 14px;
+      color: #a1a1a1;
+      position: absolute;
+      right: 17%;
+      bottom: -145.2%;
+  }
+   .pic1{
+      bottom:-207% ;
+      position: absolute;
+      right: 18%;
+  }
+   
+  .figure-text1{
+      right: -1%;
+      text-align: center;
+  }
+  .text-center6{
+      right: 7%;
+      line-gap-override: 10%;
+      /* font-size: large; */
+      color: #fff;
+      font-size: 27px;
+      margin-top: 5px;
+      text-shadow: 1px 2px 3px #444;
+      font-weight: 400;
+      bottom:10%;
+  }
+  .subheading4 {
+      /* color: #ffe4d8; */
+      font-size: 15px;
+      font-weight: 400;
+      left: -7%;
+    }
+    .input-control {
+      
+      font-size: 15px;
+      font-weight: 300;
+      line-height: normal;
+      height: 32px;
+      position: absolute;
+      right: 38%;
+      bottom: -191%;
+    }
+    .button9{
+      right: 30%;
+      position: absolute;
+      font-size: 18px;
+      font-weight: 300;
+      line-height: normal;
+      height: 38px;
+      border: 0;
+      background: #f66a05;
+      padding: 0 10px;
+      color: #fff;
+       border-radius: 0 3px 0 3px;
+       bottom: -191%;
+    }
+   .footer_sprite8{
+      background: url(//akam.cdn.jdmagicbox.com/images/icontent/jdrwd_new/new_footer_sprite1X.png) no-repeat;
+      float: left;
+  }
+    .pstore-icon5{
+      background-position: -15px 0;
+      width: 168px;
+      height: 48px;
+      position: absolute;
+      right: 47%;
+      bottom: -203%;
+    }
+    
+  
+  .istore-icon{
+      background-position: -33px -54px;
+      width: 168px;
+      height: 48px;
+      position:absolute;
+      right: 28%;
+      bottom: -203%;
+  }
+  .paragraph{
+      position:absolute;
+      font-size: x-small;
+      right: 18.5%;
+      width: 50%;
+      bottom: -228%;
+  }
+  .paragraph1{
+      position:absolute;
+      font-size: x-small;
+      right: 18.5%;
+      width: 50%;
+      bottom: -234%;
+  }
+  .paragraph2{
+      position:absolute;
+      font-size: x-small;
+      right: 18.5%;
+      width: 50%;
+      bottom: -258%;
+  }
+  .lists{
+      position: absolute;
+      font-size: small;
+      right: 21%;
+      display: flex;
+      margin-top: -25px;
+      /* word-spacing: 20px; */
+  }
+  .p1{
+      bottom: -265%; 
+      font-size: x-small;
+      position: absolute;
+      width: 80%;
+      left: 5%;
+  }
+  .p2{
+      bottom: -274%; 
+      font-size: x-small;
+      position: absolute;
+      width: 80%;
+      left: 5%;
+  }
+  .p3{
+      bottom: -280%; 
+      font-size: x-small;
+      position: absolute;
+      width: 80%;
+      left: 5%;
+  }
+  .Line{
+      bottom:-284%;
+      position: absolute;
+      font-size: small;
+      left: 5%;
+  }
+  .service-icons {
+      background: url(//akam.cdn.jdmagicbox.com/images/icontent/jdrwd_new/footerseo1x.png) no-repeat;
+      float: left;
+  }
+  .shop-icon10 {
+      background-position: -9px -199px;
+      width: 51px;
+      height: 42px;
+      bottom:-298% ;
+      left: 5%;
+      }
+      .mt-15{
+          position: absolute;
+      }
+      .shop1 {
+         font-size: small;
+          position: absolute;
+          height: 42px;
+          bottom:-298% ;
+          left: 14%;
+          }
+      .shop2 {
+              font-size: small;
+               position: absolute;
+               height: 42px;
+               bottom:-303% ;
+               left: 14%;
+               width: 180px ;
+               }
+  .book-icon {
+                  background-position: -69px -252px;
+                  width: 68px;
+                  height: 49px;
+                  left: 37%;
+                  bottom: -299%;
+              }
+         .shop11 {
+                  font-size: small;
+                   position: absolute;
+                   height: 42px;
+                   bottom:-298% ;
+                   left: 46%;
+                   }
+            .shop21 {
+                      font-size: small;
+                       position: absolute;
+                       height: 42px;
+                       bottom:-303% ;
+                       left: 46%;
+                       width: 180px ;
+                       }
+          .ordf-icon {
+          background-position: -10px -9px;
+           width: 50px;
+          height: 51px;
+          left: 68%;
+         bottom: -299%;
+          }
+          .shop12{
+              font-size: small;
+               position: absolute;
+               height: 42px;
+               bottom:-298% ;
+               left: 75%;
+               }
+        .shop22{
+                  font-size: small;
+                   position: absolute;
+                   height: 42px;
+                   bottom:-303% ;
+                   left: 75%;
+                   width: 180px ;
+                   }
+         .hote-icon {
+                      background-position: -10px -74px;
+                      width: 52px;
+                      height: 54px;
+                      left: 5.5%;
+                   bottom: -330%;
+                  }
+            .shop13{
+                      font-size: small;
+                       position: absolute;
+                       height: 42px;
+                       bottom:-328% ;
+                       left: 13.5%;
+                       }
+                .shop23{
+                          font-size: small;
+                           position: absolute;
+                           height: 42px;
+                           bottom:-332% ;
+                           left: 13.5%;
+                           width: 180px ;
+                           }
+                       .movi-icon {
+                              background-position: -142px -201px;
+                              width: 63px;
+                              height: 44px;
+                              left: 37%;
+                              bottom: -330%;
+                          }
+                          .shop14{
+                              font-size: small;
+                               position: absolute;
+                               height: 42px;
+                               bottom:-328% ;
+                               left: 46%;
+                               }
+                        .shop24{
+                                  font-size: small;
+                                   position: absolute;
+                                   height: 42px;
+                                   bottom:-332% ;
+                                   left: 46%;
+                                   width: 180px ;
+                                   }
+                              .entr-icon {
+                                      background-position: -72px -13px;
+                                      width: 66px;
+                                      height: 47px;
+                                      left: 68%;
+                                      bottom: -330%;
+                              }
+                                      .shop15{
+                                          font-size: small;
+                                           position: absolute;
+                                           height: 42px;
+                                           bottom:-328% ;
+                                           left: 75%;
+                                           }
+                                    .shop25{
+                                              font-size: small;
+                                               position: absolute;
+                                               height: 42px;
+                                               bottom: -332% ;
+                                               left: 75%;
+                                               width: 180px ;
+                                               }
+                                  
+  
+       .map_ic{
+                   width: 15px;
+                   height: 15px;
+                   bottom: 81%;
+                   position: absolute;
+                   left: 65%;
+               }
+      .search_ic{
+                  width: 15px;
+                  height: 15px;
+                  bottom: 81.5%;
+                  position: absolute;
+                  left: 91.5%;
+               }
